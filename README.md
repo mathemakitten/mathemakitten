@@ -12,7 +12,7 @@ i'm excited about startups, cities, artificial intelligence, and poetry 💫🌷
 * 📈 [Wolfram Beta](http://wolframbeta.art/) if Wolfram Alpha were powered by a tiny neural network 
 * 🎲 [Fake Trump](http://faketrump.ai/) a game in the style of arXiv vs. snarXiv
 * 🌱 [unnecessary.ai](https://unnecessary.ai/) a place dedicated to capturing the spirit of human creativity + AI
-* 🔮 [CALEB](https://www.mathemakitten.dev/caleb/) CALEB has crossed time and space in search of the foresight and clairvoyance of Osiris, Thor, Bloomberg and Yahoo! Finance (TerribleHacks 2020)
+* 🔮 [CALEB](https://www.mathemakitten.dev/caleb/) has crossed time and space in search of the foresight and clairvoyance of Osiris, Thor, Bloomberg and Yahoo! Finance
 
 ***
 
