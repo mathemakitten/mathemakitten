@@ -4,6 +4,8 @@ i'm an engineer working on something secret in the **language modeling** space, 
 
 i'm excited about startups, cities, artificial intelligence, and poetry 💫🌷🔮🌱🌸
 
+***
+
 **some fun things i've created**
 
 * 🐳 [@whalefakes](https://twitter.com/whalefakes) a Twitterbot built by finetuning GPT-2 on tweets by @awhalefact
@@ -11,5 +13,7 @@ i'm excited about startups, cities, artificial intelligence, and poetry 💫🌷
 * 🎲 [Fake Trump](http://faketrump.ai/) a game in the style of arXiv vs. snarXiv
 * 🌱 [unnecessary.ai](https://unnecessary.ai/) a place dedicated to capturing the spirit of human creativity + AI
 * 🔮 [CALEB](https://www.mathemakitten.dev/caleb/) CALEB has crossed time and space in search of the foresight and clairvoyance of Osiris, Thor, Bloomberg and Yahoo! Finance (TerribleHacks 2020)
+
+***
 
 find me on [Twitter](https://twitter.com/mathemakitten) or [Reading Supply](https://reading.supply/@mathemakitten).
