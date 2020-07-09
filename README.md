@@ -16,4 +16,4 @@ i'm excited about startups, cities, artificial intelligence, and poetry 💫🌷
 
 ***
 
-find me on [Twitter](https://twitter.com/mathemakitten) or [Reading Supply](https://reading.supply/@mathemakitten).
+talk to me on [Twitter](https://twitter.com/mathemakitten).
