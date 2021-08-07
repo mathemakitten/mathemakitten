@@ -1,6 +1,6 @@
 ### hi, i'm helen! ✨
 
-i'm an engineer working on something secret in the **language modeling** space.
+I'm a founding engineer at [Cohere](https://cohere.ai/), where I lead our Safety work.
 
 ***
 
