@@ -1,6 +1,6 @@
 ### hi, i'm helen! ✨
 
-I'm a founding engineer at [Cohere](https://cohere.ai/), where I lead our Safety work.
+i'm a founding engineer at [Cohere](https://cohere.ai/), where I lead our Safety work.
 
 ***
 
